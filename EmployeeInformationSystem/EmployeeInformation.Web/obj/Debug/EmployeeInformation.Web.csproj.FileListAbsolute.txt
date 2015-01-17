@@ -1,0 +1,12 @@
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.Web.dll.config
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.Web.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.Web.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.BLL.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.DAL.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.DAO.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.BLL.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.DAL.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\bin\EmployeeInformation.DAO.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\obj\Debug\EmployeeInformation.Web.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\obj\Debug\EmployeeInformation.Web.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.Web\obj\Debug\EmployeeInformation.Web.pdb

@@ -1,0 +1,12 @@
+D:\Movies\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\obj\Debug\EmployeeInformation.BLL.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\obj\Debug\EmployeeInformation.BLL.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.BLL.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.BLL.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.CommonUtility.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.DAL.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.DAO.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.CommonUtility.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.DAL.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\bin\Debug\EmployeeInformation.DAO.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\obj\Debug\EmployeeInformation.BLL.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.BLL\obj\Debug\EmployeeInformation.BLL.pdb

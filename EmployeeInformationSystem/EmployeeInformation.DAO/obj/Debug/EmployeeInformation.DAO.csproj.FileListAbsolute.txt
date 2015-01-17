@@ -1,0 +1,10 @@
+D:\Movies\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\bin\Debug\EmployeeInformation.DAO.dll
+D:\Movies\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\bin\Debug\EmployeeInformation.DAO.pdb
+D:\Movies\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\obj\Debug\EmployeeInformation.DAO.csprojResolveAssemblyReference.cache
+D:\Movies\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\obj\Debug\EmployeeInformation.DAO.dll
+D:\Movies\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\obj\Debug\EmployeeInformation.DAO.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\bin\Debug\EmployeeInformation.DAO.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\bin\Debug\EmployeeInformation.DAO.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\obj\Debug\EmployeeInformation.DAO.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\obj\Debug\EmployeeInformation.DAO.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAO\obj\Debug\EmployeeInformation.DAO.pdb

@@ -1,0 +1,8 @@
+D:\Movies\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\obj\Debug\EmployeeInformation.DAL.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\obj\Debug\EmployeeInformation.DAL.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformation.DAL.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformation.DAL.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformation.DAO.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformation.DAO.pdb
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\obj\Debug\EmployeeInformation.DAL.dll
+C:\Users\PC21\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformation.DAL\obj\Debug\EmployeeInformation.DAL.pdb
